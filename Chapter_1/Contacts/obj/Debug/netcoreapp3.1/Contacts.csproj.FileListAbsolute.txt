@@ -1,0 +1,13 @@
+B:\CSharp\Chapter_1\Contacts\obj\Debug\netcoreapp3.1\Contacts.csprojAssemblyReference.cache
+B:\CSharp\Chapter_1\Contacts\obj\Debug\netcoreapp3.1\Contacts.csproj.GenerateResource.cache
+B:\CSharp\Chapter_1\Contacts\obj\Debug\netcoreapp3.1\Contacts.Form1.resources
+B:\CSharp\Chapter_1\Contacts\obj\Debug\netcoreapp3.1\Contacts.AssemblyInfoInputs.cache
+B:\CSharp\Chapter_1\Contacts\obj\Debug\netcoreapp3.1\Contacts.AssemblyInfo.cs
+B:\CSharp\Chapter_1\Contacts\bin\Debug\netcoreapp3.1\Contacts.exe
+B:\CSharp\Chapter_1\Contacts\bin\Debug\netcoreapp3.1\Contacts.deps.json
+B:\CSharp\Chapter_1\Contacts\bin\Debug\netcoreapp3.1\Contacts.runtimeconfig.json
+B:\CSharp\Chapter_1\Contacts\bin\Debug\netcoreapp3.1\Contacts.runtimeconfig.dev.json
+B:\CSharp\Chapter_1\Contacts\bin\Debug\netcoreapp3.1\Contacts.dll
+B:\CSharp\Chapter_1\Contacts\bin\Debug\netcoreapp3.1\Contacts.pdb
+B:\CSharp\Chapter_1\Contacts\obj\Debug\netcoreapp3.1\Contacts.dll
+B:\CSharp\Chapter_1\Contacts\obj\Debug\netcoreapp3.1\Contacts.pdb
