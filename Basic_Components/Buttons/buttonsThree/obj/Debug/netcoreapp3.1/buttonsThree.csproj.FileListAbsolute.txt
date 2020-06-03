@@ -1,0 +1,11 @@
+B:\CSharp\Buttons\buttonsThree\obj\Debug\netcoreapp3.1\buttonsThree.csprojAssemblyReference.cache
+B:\CSharp\Buttons\buttonsThree\obj\Debug\netcoreapp3.1\buttonsThree.AssemblyInfoInputs.cache
+B:\CSharp\Buttons\buttonsThree\obj\Debug\netcoreapp3.1\buttonsThree.AssemblyInfo.cs
+B:\CSharp\Buttons\buttonsThree\bin\Debug\netcoreapp3.1\buttonsThree.exe
+B:\CSharp\Buttons\buttonsThree\bin\Debug\netcoreapp3.1\buttonsThree.deps.json
+B:\CSharp\Buttons\buttonsThree\bin\Debug\netcoreapp3.1\buttonsThree.runtimeconfig.json
+B:\CSharp\Buttons\buttonsThree\bin\Debug\netcoreapp3.1\buttonsThree.runtimeconfig.dev.json
+B:\CSharp\Buttons\buttonsThree\bin\Debug\netcoreapp3.1\buttonsThree.dll
+B:\CSharp\Buttons\buttonsThree\bin\Debug\netcoreapp3.1\buttonsThree.pdb
+B:\CSharp\Buttons\buttonsThree\obj\Debug\netcoreapp3.1\buttonsThree.dll
+B:\CSharp\Buttons\buttonsThree\obj\Debug\netcoreapp3.1\buttonsThree.pdb
