@@ -1,0 +1,6 @@
+<x:office xmlns:x="y">
+  <patients xmlns="y">
+    <name>sam</name>
+    <id>1</id>
+  </patients>
+</x:office>
