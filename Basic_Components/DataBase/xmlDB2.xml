@@ -1,0 +1,18 @@
+<office>
+  <patients>
+    <name>sam</name>
+    <id>1</id>
+  </patients>
+  <patients>
+    <name>mark</name>
+    <id>2</id>
+  </patients>
+  <medications>
+    <id>1</id>
+    <medication>atenolol</medication>
+  </medications>
+  <medications>
+    <id>2</id>
+    <medication>amoxicillin</medication>
+  </medications>
+</office>
