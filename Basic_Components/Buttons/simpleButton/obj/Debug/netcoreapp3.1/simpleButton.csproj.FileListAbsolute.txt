@@ -1,0 +1,11 @@
+B:\CSharp\Buttons\simpleButton\bin\Debug\netcoreapp3.1\simpleButton.exe
+B:\CSharp\Buttons\simpleButton\bin\Debug\netcoreapp3.1\simpleButton.deps.json
+B:\CSharp\Buttons\simpleButton\bin\Debug\netcoreapp3.1\simpleButton.runtimeconfig.json
+B:\CSharp\Buttons\simpleButton\bin\Debug\netcoreapp3.1\simpleButton.runtimeconfig.dev.json
+B:\CSharp\Buttons\simpleButton\bin\Debug\netcoreapp3.1\simpleButton.dll
+B:\CSharp\Buttons\simpleButton\bin\Debug\netcoreapp3.1\simpleButton.pdb
+B:\CSharp\Buttons\simpleButton\obj\Debug\netcoreapp3.1\simpleButton.csprojAssemblyReference.cache
+B:\CSharp\Buttons\simpleButton\obj\Debug\netcoreapp3.1\simpleButton.AssemblyInfoInputs.cache
+B:\CSharp\Buttons\simpleButton\obj\Debug\netcoreapp3.1\simpleButton.AssemblyInfo.cs
+B:\CSharp\Buttons\simpleButton\obj\Debug\netcoreapp3.1\simpleButton.dll
+B:\CSharp\Buttons\simpleButton\obj\Debug\netcoreapp3.1\simpleButton.pdb
