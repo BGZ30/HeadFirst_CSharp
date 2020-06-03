@@ -1,0 +1,11 @@
+B:\CSharp\Chapter_1\CreateXML\bin\Debug\netcoreapp3.1\CreateXML.exe
+B:\CSharp\Chapter_1\CreateXML\bin\Debug\netcoreapp3.1\CreateXML.deps.json
+B:\CSharp\Chapter_1\CreateXML\bin\Debug\netcoreapp3.1\CreateXML.runtimeconfig.json
+B:\CSharp\Chapter_1\CreateXML\bin\Debug\netcoreapp3.1\CreateXML.runtimeconfig.dev.json
+B:\CSharp\Chapter_1\CreateXML\bin\Debug\netcoreapp3.1\CreateXML.dll
+B:\CSharp\Chapter_1\CreateXML\bin\Debug\netcoreapp3.1\CreateXML.pdb
+B:\CSharp\Chapter_1\CreateXML\obj\Debug\netcoreapp3.1\CreateXML.csprojAssemblyReference.cache
+B:\CSharp\Chapter_1\CreateXML\obj\Debug\netcoreapp3.1\CreateXML.AssemblyInfoInputs.cache
+B:\CSharp\Chapter_1\CreateXML\obj\Debug\netcoreapp3.1\CreateXML.AssemblyInfo.cs
+B:\CSharp\Chapter_1\CreateXML\obj\Debug\netcoreapp3.1\CreateXML.dll
+B:\CSharp\Chapter_1\CreateXML\obj\Debug\netcoreapp3.1\CreateXML.pdb
